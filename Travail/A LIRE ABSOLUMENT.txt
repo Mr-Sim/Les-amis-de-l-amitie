@@ -1,8 +1,8 @@
-Déposez dans votre dossier personnel les sons que vous désirez modifier. Dans votre dossier vous vous organisez comme vous voulez, tant que vous respectez les conditions suivantes : 
+Si vous le souhaitez, vous pouvez déposer vos travaux en cours dans votre dossier personnel, mais c'est pas obligatoire.  Organisez comme vous voulez, tant que vous respectez les conditions suivantes : 
 - Vos sons doivent être enregistré avec le meilleur matériel que vous avez à disposition
 - Vous les enregistrez comme vous voulez, mais à la fin ils devront être convertis en format .ogg
 
-Si vous le souhaitez, l'installeur du logiciel Audacity est dans ce dossier. Vous pouvez l'utiliser pour vous enregistrer et apporter des modifications ou des effets spéciaux à vos sons. 
+Si vous le souhaitez, j'ai mis un fichier .url dans ce repertoire pour télécharger Audacity. Vous pouvez l'utiliser pour vous enregistrer et apporter des modifications ou des effets spéciaux à vos sons. 
 
 Audacity aura également un rôle obligatoire :
 Et si vous êtes une bonne personne, suivez ce tutoriel pour apprendre à supprimer le fond sonore de votre enregistrement afin qu'il ne soit pas parazité par des grizouillis, ce sera bien mieux même si vous avez un bon micro.
