@@ -1,0 +1,8 @@
+Les sons sont dans le dossier sounds. 
+Vous pouvez copier les sons sur lesquels vous travaillez en effectuant un copier coller dans votre répertoire de travail, mais ne supprimez un son original uniquement lorsque le nouveau son est intégré au nouveau pack, sinon vous risquez d'oublier le répertoire d'origine du son et ce serait embêtant.
+
+En revanche n'oubliez pas de supprimer le son d'origine après avoir placé le son modifié dans le nouveau pack, comme ça on peut voir les sons qui n'ont pas encore été traités. 
+
+EN CE QUI CONCERNE LES SONS COLLECTIFS : 
+De dossier contient une copie des sons que l'on fera ensemble, comme les villageois. 
+Il faut que l'on se mette d'accord sur discord pour la façon dont on va procéder. Tout son ou collection de sons que l'on souhaite modifier collectivement devront être copiés dans se dossier et dans un sous dossier portant le nom de l'objet produisant ce son. 
