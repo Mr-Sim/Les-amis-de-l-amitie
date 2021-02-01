@@ -11,6 +11,6 @@ Ensuite, écoutez le son et voyez si vous êtes inspiré. Vous pouvez tenter de 
 Explorez les differents dossiers et lisez y les differents document texte pour les explications, surtout le "A LIRE ABSOLUMENT.txt" dans le dossier "travail".
 Et aussi, ne pretez pas attention aux fichiers AAAAAA.txt, ce sont juste des document textes qui servent à remplir les repertoire pour ne pas qu'ils soient vides sinon ils disparaissent.
 
-Dans l'onglet projet, approtez les modifications quand c'est nécéssaire. Pas besoin de vous faire un dessin vous saurez de quoi je parle quand vous y serez.
+Dans l'onglet projet, apportez les modifications quand c'est nécéssaire. Pas besoin de vous faire un dessin vous saurez de quoi je parle quand vous y serez.
 
 
